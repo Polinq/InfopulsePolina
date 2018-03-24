@@ -1,2 +1,3 @@
 # Polina-s-test-project-
-Test note 1 test
+<<<<<<< HEAD
+Test note 1 test, 1
